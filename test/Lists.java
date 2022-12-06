@@ -1,5 +1,6 @@
+package test;
 
-public class HelloWorlds{
+class List{
 	public static void main(String... args){ //public static void main(String [] args)
 		System.out.println(args.length);
 			for(String a : args){
